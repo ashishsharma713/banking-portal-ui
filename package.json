@@ -1,3 +1,6 @@
+"scripts": {
+  "build": "node --max-old-space-size=4096 ./node_modules/@angular/cli/bin/ng build"
+},
 {
   "name": "banking-portal",
   "version": "0.0.0",
